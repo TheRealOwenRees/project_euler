@@ -6,7 +6,6 @@ This repository contains my efforts at solving these problems.
 ### Problems solved using:
 - C
 - Python
-- Javascript
 
 
 ## Completed Problems

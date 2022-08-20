@@ -15,7 +15,6 @@ unsigned int difference_of_squares(unsigned int n) {
 
 int main(void) {
     unsigned int n = 100;
-    unsigned int difference = square_of_sum(n) - sum_of_squares(n);
-    printf("The difference between 'square of sum' and 'sum of squares' = %d\n", difference);
+    printf("The difference between 'square of sum' and 'sum of squares' = %d\n", difference_of_squares(n));
     return 0;
 }
