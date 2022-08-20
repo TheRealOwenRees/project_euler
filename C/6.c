@@ -1,4 +1,3 @@
-#include "6.h"
 #include <stdio.h>
 
 unsigned int sum_of_squares(unsigned int n) {
