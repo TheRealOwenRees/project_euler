@@ -4,6 +4,7 @@
 This repository contains my efforts at solving these problems.
 
 ### Problems solved using:
+- x86-64 Assembly
 - C
 - Python
 
