@@ -1,13 +1,14 @@
 # About
+
 [Project Euler](https://projecteuler.net/progress) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
 This repository contains my efforts at solving these problems.
 
 ### Problems solved using:
-- x86-64 Assembly
+
 - C
 - Python
-
+- Elixir
 
 ## Completed Problems
 
@@ -15,3 +16,4 @@ This repository contains my efforts at solving these problems.
 - Problem 2: Even Fibonacci numbers
 - Problem 3: Largest prime factor
 - Problem 6: Sum square difference
+- Problem 14: Longest Collatz Sequence
