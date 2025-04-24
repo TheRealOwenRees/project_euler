@@ -9,11 +9,13 @@ This repository contains my efforts at solving these problems.
 - C
 - Python
 - Elixir
+- JavaScript
 
 ## Completed Problems
 
 - Problem 1: Multiples of 3 or 5
 - Problem 2: Even Fibonacci numbers
 - Problem 3: Largest prime factor
+- Problem 4: Largest Palindrom Product
 - Problem 6: Sum square difference
 - Problem 14: Longest Collatz Sequence
